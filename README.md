@@ -1,6 +1,7 @@
 # bin2Dec
 The idea: https://github.com/florinpop17/app-ideas
 <br>
+<h3>User stories</h3>
 - [x]  <s>Arrays may not be used to contain the binary digits entered by the user</s>
 - [x]  <s>Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.</s>
 - [x]  <s>User can enter up to 8 binary digits in one input field</s>

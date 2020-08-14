@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,
+html{
+    font-family: 'Source Code Pro', monospace;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#container .header{
+    margin: 5px 10px;
+}
+
+#container .header h1{
+    font-size: 64px;
+    color: #3584e4;
+}
+#container .in-out{
+    display: flex;
+    flex-direction: column;
+}
+
+#container .in-out .input{
+    font-size: 36px;
+
+    display: relative;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+    padding: 24px 48px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#container .in-out .output{   
+    font-size: 36px;
+    font-weight: bold;
+    
+    display: relative;
+    outline: none;
+    border: none;
+    margin-bottom: 10px;
+    padding: 24px 48px;
+    margin-bottom: 5px;
+    background: #f6f5f4;
+}
+
+#container .in-out .button{
+    border: none;
+    cursor: pointer;
+
+    background: white;
+
+    margin-top: 15px;
+    padding: 12px 48px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    transition: 0.5s;
+}
+
+#container .in-out .button:hover{
+    background-color: #f6f5f4;
+}

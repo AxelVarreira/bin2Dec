@@ -2,11 +2,11 @@
 The idea: https://github.com/florinpop17/app-ideas
 <br>
 <h3>User stories</h3>
-- [x]  <s>Arrays may not be used to contain the binary digits entered by the user</s>
-- [x]  <s>Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.</s>
-- [x]  <s>User can enter up to 8 binary digits in one input field</s>
-- [x]  <s>User must be notified if anything other than a 0 or 1 was entered</s>
-- [x]  <s>User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered</s>
+- [x]  <s>Arrays may not be used to contain the binary digits entered by the user</s><br>
+- [x]  <s>Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.</s><br>
+- [x]  <s>User can enter up to 8 binary digits in one input field</s><br>
+- [x]  <s>User must be notified if anything other than a 0 or 1 was entered</s><br>
+- [x]  <s>User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered</s><br>
 
 📗[JavaScript](https://www.javascript.com/)
 <br>

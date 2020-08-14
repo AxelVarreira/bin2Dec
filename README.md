@@ -1,8 +1,18 @@
 # bin2Dec
-A beginner challenge from App Ideas repo, by florinpop17: https://github.com/florinpop17/app-ideas
+The idea: https://github.com/florinpop17/app-ideas
 <br>
+- [x]  <s>Arrays may not be used to contain the binary digits entered by the user</s>
+- [x]  <s>Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use.</s>
+- [x]  <s>User can enter up to 8 binary digits in one input field</s>
+- [x]  <s>User must be notified if anything other than a 0 or 1 was entered</s>
+- [x]  <s>User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered</s>
 
-Made by me, with pure JS, CSS and HTML.
+📗[JavaScript](https://www.javascript.com/)
+<br>
+📘[CSS](https://cssreference.io/)
+<br>
+📙[HTML](https://html.com/)
+<a>
 
 [![Screenshot-from-2020-08-14-09-17-09.png](https://i.postimg.cc/BnhkXX54/Screenshot-from-2020-08-14-09-17-09.png)](https://postimg.cc/68vYP61m)
 
